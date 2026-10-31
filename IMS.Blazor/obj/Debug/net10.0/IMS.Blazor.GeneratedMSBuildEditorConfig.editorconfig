@@ -1,0 +1,182 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.VerifyReferenceTrimCompatibility = 
+build_property.VerifyReferenceAotCompatibility = 
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = IMS.Blazor
+build_property.RootNamespace = IMS.Blazor
+build_property.ProjectDir = D:\Projects\NetCore\IMS.Blazor\IMS.Blazor\IMS.Blazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\NetCore\IMS.Blazor\IMS.Blazor\IMS.Blazor
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/ConfirmDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25maXJtRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/DataTable.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXRhVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/DocumentTotals.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEb2N1bWVudFRvdGFscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/LinesEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaW5lc0VkaXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/Pager.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/PdfPreview.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQZGZQcmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/StatusBadge.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0dXNCYWRnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Components/ToastHost.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2FzdEhvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Layout/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Layout/NavDropdown.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdkRyb3Bkb3duLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Ai/AiAssistant.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWlcQWlBc3Npc3RhbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Auth/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Categories/CategoryForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Categories/CategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Customers/CustomerForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Customers/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Items/ItemForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Items/ItemList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/NotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/PurchaseOrders/PoForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VPcmRlcnNcUG9Gb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/PurchaseOrders/PoList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2VPcmRlcnNcUG9MaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Receipts/ReceiptForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZWlwdHNcUmVjZWlwdEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Receipts/ReceiptList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZWlwdHNcUmVjZWlwdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/SalesInvoices/SalesInvoiceForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNJbnZvaWNlc1xTYWxlc0ludm9pY2VGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/SalesInvoices/SalesInvoiceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNJbnZvaWNlc1xTYWxlc0ludm9pY2VMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/StockView/StockList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvY2tWaWV3XFN0b2NrTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Users/UserForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Users/UserList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Vendors/VendorForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZG9yc1xWZW5kb3JGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Vendors/VendorList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZG9yc1xWZW5kb3JMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-t7fw440gfy
+
+[D:/Projects/NetCore/IMS.Blazor/IMS.Blazor/IMS.Blazor/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ycpjnh4ymz
